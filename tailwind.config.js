@@ -8,6 +8,8 @@ module.exports = {
         dark:'#000000',
         light:'#ffffff',
         green:'#1db954',
+        darkgreen:'#056952',
+        tcolor:'#C5F0C9',
       }
     },
     // container:{
